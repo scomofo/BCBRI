@@ -1,0 +1,17 @@
+{
+  "customer": "",
+  "salesman": "",
+  "date": "2025-04-17",
+  "deal_type": "Cash",
+  "equipment": [],
+  "parts": [],
+  "trade": {
+    "description": "",
+    "year": "",
+    "hours": "",
+    "serial": "",
+    "allowance": 0.0,
+    "payoff": 0.0
+  },
+  "notes": ""
+}
